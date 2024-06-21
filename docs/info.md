@@ -11,10 +11,13 @@ You can also include images in this folder and reference them in the markdown. E
 
 Implementation of Tim Böscke's Minimal 8Bit CPU in a 32 Macrocell CPLD.
 
+
 ## How to test
 
 To be described
 
+
 ## External hardware
 
 Maybe an external memory of 64 bytes!
+
